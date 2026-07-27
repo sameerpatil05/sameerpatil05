@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sameer%20Patil&fontAlign=50&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlign=50&descAlignY=58&animation=fadeIn&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samir%20Patil&fontAlign=50&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlign=50&descAlignY=58&animation=fadeIn&theme=tokyonight" />
 
 <br/>
 
